@@ -19,7 +19,7 @@ function App() {
     <div className='flex flex-col items-center absolute top-24 left-1/2 -translate-x-1/2 font-sans'>
       <h3 className='text-5xl tracking-tighter font-[600] glow-text'>mackbook pro.</h3>
       <h5>Oh no pro!</h5>
-      <p className='text-center w-3/4 text-sm'>Buy MacBook Pro starting at ₹158900.00 with education savings. And now up to 30 Sep, get AirPods.◊</p>
+      <p className='text-center w-1/2 text-sm'>Buy MacBook Pro starting at ₹158900.00 with education savings. And now up to 30 Sep, get AirPods.◊</p>
     </div>
 
     <Canvas camera={{fov:12, position:[0,-12,220]}}>
